@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mzj:home|Door43 (mzj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mzj|d43-mzj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mzj/archive/master.zip|d43-mzj.zip]]
+
+**Recent Changes**
+{{changes>ns = mzj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mzj|Ethnologue data]]
+
